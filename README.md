@@ -1,6 +1,6 @@
 # Youtube-player
 
-Interested in creating Youtube-player in [React](https://medium.com/@nabendu82/create-youtube-player-in-reactjs-part-1-3b949de9b251)?
+Interested in creating Youtube-player in [React](https://medium.com/@nabendu82/refactoring-reactjs-youtube-player-to-show-selected-video-ae92d29a89fd)?
 
 ### Getting Started
 
@@ -10,8 +10,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the process with the following:
 
 ```
-> git clone https://github.com/nabendu82/youtube-player.git
-> cd youtube-player
+> git clone https://github.com/nabendu82/youtube-player-selected.git
+> cd youtube-player-selected
 > npm install
 > npm start
 ```
